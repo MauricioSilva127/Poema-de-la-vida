@@ -26,3 +26,5 @@ Porque la vida es tuya y tuyo también el deseo
 
 The end
 Mauricio  Alejandro Silva Rosales 1579099
+¿Se puede hacer un Pull request y un Merge emtre el Master Branch y la rama a New Life?
+R= Si se puede hacer.
